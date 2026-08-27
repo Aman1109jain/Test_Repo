@@ -1,0 +1,4 @@
+print()"
+
+fun device():
+  return
