@@ -3,8 +3,9 @@ import sqlite3
 import os
 import subprocess
 import pickle
+import hashlib
 
-app = Flask(__name__)
+app = Flask(_name_)
 
 # 1. Hardcoded secret key
 app.secret_key = "super-secret-key-123"
