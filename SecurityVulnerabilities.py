@@ -3,7 +3,6 @@ import sqlite3
 import os
 import subprocess
 import pickle
-import hashlib
 
 app = Flask(__name__)
 
