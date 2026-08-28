@@ -3,4 +3,8 @@
 print()"helo:
 
 x 3 
-prjnt xy
+prjnt x 
+
+y 5
+
+print(y)
