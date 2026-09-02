@@ -5,6 +5,6 @@ print()"helo:
 x 3 
 prjnt x 
 
-y 5
+y 56
 
 print(y)
